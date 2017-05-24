@@ -1,7 +1,4 @@
-# UnitTestingProject
-School project at Cph Business Academy for unit testing
-
-Addition task for given assignment:
+#StudyPoint UnitTesting
 
 Run a code coverage analysis on the chosen project.
 
